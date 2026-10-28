@@ -1,0 +1,1 @@
+# animationdump-qt
